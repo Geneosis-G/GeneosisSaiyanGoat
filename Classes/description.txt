@@ -1,0 +1,44 @@
+His power level is over 9000!
+
+Meet Goatku, from planet Salada, an infiltration baby growing up on Earth. Will he follow the ancestral rules of his people and take over the planet to become one of the strongest warrior in the galaxy? Or will he change his fate and protect Earth against invading Sheeps?
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Super Saiyan Goat: You can shoot Ki Blasts and Kamehamehas.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][Space]:[/b] Hold to hover.
+- [b][LeftClick]:[/b] Hold to shoot Ki Blasts.
+- [b][RightClick]:[/b] Hold to charge a Kamehameha.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][A]:[/b] Hold to hover.
+- [b][RT]:[/b] Hold to shoot Ki Blasts.
+- [b][LT]:[/b] Hold to charge a Kamehameha.
+
+[b]CHARACTERISTICS[/b]
+- You jump higher and have 4 extra jumps.
+- Ki Blasts wil aim at position of the cursor when you shot them.
+- Kamehameha always fire straight in front of your goat.
+- You can't shoot Ki Blasts and charge the Kamehameha at the same time.
+- Both attacks will damage MMO enemies and Zombies.
+- Your body will stop during the Kamehameha beam.
+- Going ragdoll will cancel your attacks.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Type "LAZER" on kayboard or [LB][LT][RT][RB][A] on gamepad to toggle meme sounds ;)[/spoiler]
+- [spoiler]You can use one of your extra jumps by pressing space again after hovering for as long as you wish.[/spoiler]
+- [spoiler]When in the air, you can rotate while charging the Kamehameha to strike from above.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Ki Blasts might fail to touch parts of the level because they are very fast: Can't fix.
+- The game might lag when you fire a Kamehameha on a lot of items: Yes.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]If I remember correctly, this was one of the very first suggestions to be added to the request thread... But I was leaving it near the end of the list because I had no clue how to do the particle effects needed for it X)
+Anyway, lots of game updates came out, and we now have plenty of beams and trails to make decent Ki Blasts and Kamehamehas :p So what do we have here: Hovering (old good Angel Goat ability), more jumps (that's a feature of the game) and two energetic attacks.
+The first one I made was the Ki Blast, as it was very close to some items I made already. It's a sort of mix between the laser sword from Hero Goat and the homing missiles from Attack Helicopter ^^ Basically a ball homing to the cursor when you shoot it, with a nice energy trail, and doing some damage on impact.
+Then I had to work on the beam... I had really bad memories of last time I tried to work with one of these (in Engineer Goat) because I had to hack into the way the beam effect was designed really hard to have it working X) Hopefully, this time I used the beam from the Waste of Space ships, not the one from the Cows. And even if I got some trouble to get the coordinates of both sides of the beam right, this beam is way easier to manipulate and configure than the other :)
+Last part I added to the beam was the actual repulsion force. This was quite hard to optimise so that it will not attempt to push too many items while getting all those inside the beam radius, but I think the current solution is good enough : You might get lag spikes but at least the game won't crash when using it :p
+[/quote]
